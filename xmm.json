@@ -1,0 +1,13 @@
+{
+    "yes": true,
+    "maxfee": 0.0001,
+    "delta": 0.002,
+    "wallets": {
+        "fund": {
+            "address": "rJZDxoUZfkHchrPubthnHfaNTmQhoziLXi",
+            "secret": "snMXLo9AXwsSbExQYYrEuPX2v5GFu"
+        }
+    },
+    "hedge": [ "*" ],
+    "server": "ws://s.altnet.rippletest.net:51233"
+}
